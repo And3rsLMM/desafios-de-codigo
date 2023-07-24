@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Problem {
+public class PedraPapelAtaqueAereo {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         int N = leitor.nextInt();

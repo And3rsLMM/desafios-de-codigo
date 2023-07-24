@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Main {
+public class ImprimindoPositivosMedia {
 	
   public static void main(String[] args) {
      Scanner leitor = new Scanner(System.in);

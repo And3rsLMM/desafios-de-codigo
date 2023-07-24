@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 
-public class Main {
+public class SomaHcomNTermos {
 
     public static void main(String[] Args) {
 

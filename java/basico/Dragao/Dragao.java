@@ -1,12 +1,13 @@
 import java.util.*;
 
-public class Solution {
+public class Dragao {
 
     public static void main(String[] args) {
 
         int casos, poderDeLuta;
         Scanner ler = new Scanner(System.in);
 
+        
         casos = ler.nextInt();
 
         for (int i = 0; i < casos; i++) {

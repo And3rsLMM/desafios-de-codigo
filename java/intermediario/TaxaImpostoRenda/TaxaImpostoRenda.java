@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class TaxaDeImpostoDeRenda {
+public class TaxaImpostoRenda {
 
     public static void main(String[] args) throws IOException {
 

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class QuitandaDoSeuZe {
+public class QuitandaSeuZe {
 
     public static void main(String[] args) {
 
